@@ -13,6 +13,8 @@ A simple, self-hosted grammar corrector that uses Google's Gemini API to correct
 
 Before you begin, ensure you have the following installed:
 
+- [ydotool](https://github.com/ReimuNotMoe/ydotool) (for wayland)
+- [xdotool](https://github.com/jordansissel/xdotool) (for xrog)
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/)
 - For Wayland users: `wl-clipboard`
