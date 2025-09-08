@@ -2,6 +2,13 @@
 
 A simple, self-hosted grammar corrector that uses Google's Gemini API to correct your text.
 
+#Demo 
+
+
+https://github.com/user-attachments/assets/bb16b979-cf1a-42c6-abae-e9bc59c7957b
+
+
+
 ## Features
 
 - Corrects grammar of text from the clipboard.
